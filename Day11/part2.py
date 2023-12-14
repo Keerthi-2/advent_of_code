@@ -18,7 +18,7 @@ def allcol(mat,col):
 
 if __name__=="__main__":
     mat=[]
-    with open("input.txt","r") as f:
+    with open("sample1_pavan.txt","r") as f:
 
         for line in f:
             l=line.strip()
